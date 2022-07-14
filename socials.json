@@ -1,7 +1,8 @@
 {
     "user": {
         "name": "jazz",
-        "profile": "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b564272-DlTwTm5qmwRm.png"
+        "profile": "./images/pfp.png",
+        "background": "./images/bg.jpg"
     },
     "socials": {
         "youtube": {
