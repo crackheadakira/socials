@@ -19,6 +19,10 @@
             "user": "akira",
             "url": "https://open.spotify.com/user/morgantali.mt?si=a1bab1c21d6a445b",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
+        },
+        "discord": {
+            "user": "akira#6505",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg"
         }
     }
 }
