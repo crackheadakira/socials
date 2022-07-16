@@ -33,6 +33,11 @@
             "user": "crackheadakira",
             "image": "https://www.last.fm/static/images/lastfm_avatar_twitter.52a5d69a85ac.png",
             "url": "https://www.last.fm/user/crackheadakira"
+        },
+        "github": {
+            "user": "crackheadakira",
+            "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+            "url": "https://github.com/crackheadakira"
         }
     }
 }

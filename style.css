@@ -82,10 +82,14 @@ p {
     justify-content: center;
     align-items: center;
     margin-bottom: 0.25rem;
+    width: calc(1.75rem * 4);
 }
 
 #socialLink {
-    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .socialLink {
