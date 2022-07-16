@@ -5,6 +5,10 @@
         "background": "./images/bg.jpg"
     },
     "socials": {
+        "discord": {
+            "user": "akira#6505",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg"
+        },
         "youtube": {
             "user": "akira",
             "url": "https://youtube.com/c/akiraoncrack",
@@ -20,9 +24,15 @@
             "url": "https://open.spotify.com/user/morgantali.mt?si=a1bab1c21d6a445b",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
         },
-        "discord": {
-            "user": "akira#6505",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg"
+        "letterboxd": {
+            "user": "hazyjazz",
+            "image": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png",
+            "url": "https://letterboxd.com/hazyjazz/"
+        },
+        "lastfm": {
+            "user": "crackheadakira",
+            "image": "https://www.last.fm/static/images/lastfm_avatar_twitter.52a5d69a85ac.png",
+            "url": "https://www.last.fm/user/crackheadakira"
         }
     }
 }
