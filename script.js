@@ -19,10 +19,9 @@ getJSON().then(data => {
 
                 const notification = document.querySelector('#discordPopUp');
                 notification.style.opacity = "100";
-                const closeButton = document.querySelector('#copyText > a')
-                closeButton.addEventListener('click', (e) => {
+                setTimeout(function() {
                     notification.style.opacity = "0";
-                })
+                }, 1000)
             });
             links.parentNode.insertBefore(discordDiv, links.nextSibling);
             break;

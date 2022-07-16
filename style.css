@@ -114,6 +114,7 @@ p {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    cursor: pointer;
 }
 
 #discord:hover {
@@ -143,7 +144,7 @@ p {
     left: 0;
     right: 0;
     text-align: center;
-    transition: 150ms ease-in-out;
+    transition: 150ms ease;
 }
 
 #copyText {
@@ -156,16 +157,4 @@ p {
     height: 2rem;
     padding: 0.2rem;
     border-radius: 0.2rem;
-}
-
-#copyText>a {
-    text-decoration: none;
-    color: rgb(189, 0, 0);
-    transition: 150ms ease-in-out;
-    margin-left: 0.2rem;
-    font-size: 0.9rem;
-}
-
-#copyText>a:hover {
-    filter: opacity(70%);
 }
