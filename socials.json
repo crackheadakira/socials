@@ -7,36 +7,36 @@
     "socials": {
         "discord": {
             "user": "akira#6505",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg"
+            "image": "./images/Discord.png"
         },
         "youtube": {
             "user": "akira",
             "url": "https://youtube.com/c/akiraoncrack",
-            "image": "https://sttheresachurch.org/wp-content/uploads/2020/04/you-tube-logo.png"
+            "image": "./images/YouTube.png"
         },
         "anilist": {
             "user": "Jazz",
             "url": "https://anilist.co/user/Jazz",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/AniList_logo.svg"
+            "image": "./images/Anilist.png"
         },
         "spotify": {
             "user": "akira",
             "url": "https://open.spotify.com/user/morgantali.mt?si=a1bab1c21d6a445b",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
+            "image": "./images/spotify.webp"
         },
         "letterboxd": {
             "user": "hazyjazz",
-            "image": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png",
+            "image": "./images/letterboxd.png",
             "url": "https://letterboxd.com/hazyjazz/"
         },
         "lastfm": {
             "user": "crackheadakira",
-            "image": "https://www.last.fm/static/images/lastfm_avatar_twitter.52a5d69a85ac.png",
+            "image": "./images/lastfm.png",
             "url": "https://www.last.fm/user/crackheadakira"
         },
         "github": {
             "user": "crackheadakira",
-            "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+            "image": "./images/github.png",
             "url": "https://github.com/crackheadakira"
         }
     }
